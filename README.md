@@ -14,3 +14,10 @@ Our team's member:
 
 - Tập dataset được sử dụng trong bài ở đây sẽ là tập MNIST dataset, một tập dataset chửa khoảng 60,000 các chữ số viết tay thường được sử dụng trong việc training các hệ thống xử lý hình ảnh. 
 Trong đồ án này, ta sẽ sử dụng 10000 ảnh để train và kiểm thử cho việc cải thiện thời gian chạy cho thuật toán song song.
+
+**Mô tả các file**
+- CNN_Sequential.ipynb: Code tuần tự
+- Parallel_CNN.ipynb: Phiên bản song song thứ nhất
+- Parallel_CNN_Ver2.ipynb: Phiên bản song song thứ hai
+- Final Parallel Version: Phiên bản song song tối ưu nhất (cuối cùng)
+- Final Report.pdf: Báo cáo đồ án
